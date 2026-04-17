@@ -5,9 +5,9 @@ Discord Rich Presence for Affinity Suite apps.
 Displays which Affinity app you're currently using as your Discord status.
 
 Supports:
-- Affinity Designer 2
-- Affinity Photo 2
-- Affinity Publisher 2
+- <img src="affinity_designer.png" width="20" align="center"> Affinity Designer 2
+- <img src="affinity_photo.png" width="20" align="center"> Affinity Photo 2
+- <img src="affinity_publisher.png" width="20" align="center"> Affinity Publisher 2
 
 ## Requirements
 - Windows
