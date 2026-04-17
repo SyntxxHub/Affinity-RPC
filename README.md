@@ -1,4 +1,4 @@
-# <img src="affinity_rpc.png" width="40" align="center"> Affinity RPC
+# [<img src="affinity_rpc.png" width="40" align="center"> Affinity RPC](https://github.com/SyntxxHub/Affinity-RPC/releases/tag/%23discord-rpc)
 Discord Rich Presence for Affinity Suite apps.
 
 ## What it does
