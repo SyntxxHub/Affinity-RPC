@@ -12,7 +12,6 @@ Supports:
 ## Requirements
 - Windows
 - Discord (running)
-- Any Affinity Suite app
 
 ## How to use?
 Simply run `AffinityRPC.exe` and it will appear in your system tray. Your Discord status will automatically update when you open any supported Affinity app, and clear when you close it.
